@@ -1,0 +1,26 @@
+PODS:
+  - Branch (0.31.4):
+    - Branch/Core (= 0.31.4)
+  - Branch/Core (0.31.4)
+  - OneSignal (2.13.1)
+  - XCDYouTubeKit (2.14.0)
+
+DEPENDENCIES:
+  - Branch (~> 0.31.3)
+  - OneSignal (= 2.13.1)
+  - XCDYouTubeKit (~> 2.7)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Branch
+    - OneSignal
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Branch: 5180bca89b8942dd0fe8175d7ecb8a8a451cf5b0
+  OneSignal: fa98eaa90372bb367b6a4a1c1622ffb9832c7600
+  XCDYouTubeKit: 04a2f89dca6c5c53d1786701a0e98dcb484be7a8
+
+PODFILE CHECKSUM: 68586d7471095af3e997434183d26fd9ec4e6c04
+
+COCOAPODS: 1.8.4

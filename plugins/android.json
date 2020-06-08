@@ -1,0 +1,78 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-facebook4": {
+      "APP_ID": "315436965794053",
+      "APP_NAME": "ArtFormPlatform",
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "twitter-connect-plugin": {
+      "FABRIC_KEY": "3218c800211db53bb90e77910223b6eef082f76a",
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-filechooser": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-document-viewer": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-youtube-video-player": {
+      "PACKAGE_NAME": "io.artform.com"
+    },
+    "cordova-plugin-uniquedeviceid": {
+      "PACKAGE_NAME": "io.artform.com"
+    },
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "io.artform.com"
+    },
+    "cordova-plugin-filepath": {
+      "PACKAGE_NAME": "io.artform.com"
+    },
+    "cordova-plugin-filepicker": {
+      "PACKAGE_NAME": "io.artform.com"
+    },
+    "branch-cordova-sdk": {
+      "PACKAGE_NAME": "io.artform.com"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "io.artform.com"
+    }
+  },
+  "dependent_plugins": {}
+}

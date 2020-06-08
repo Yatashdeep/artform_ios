@@ -1,0 +1,28 @@
+{
+    "declarations": {},
+    "sources": {
+        "https://github.com/CocoaPods/Specs.git": {
+            "source": "https://github.com/CocoaPods/Specs.git",
+            "count": 1
+        }
+    },
+    "libraries": {
+        "Branch": {
+            "name": "Branch",
+            "spec": "~> 0.31.3",
+            "count": 1
+        },
+        "XCDYouTubeKit": {
+            "name": "XCDYouTubeKit",
+            "type": "podspec",
+            "spec": "~> 2.7",
+            "count": 1
+        },
+        "OneSignal": {
+            "name": "OneSignal",
+            "type": "podspec",
+            "spec": "2.13.1",
+            "count": 1
+        }
+    }
+}
