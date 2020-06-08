@@ -56,10 +56,17 @@
         </config-file>
         <key>NSPhotoLibraryAddUsageDescription</key>
         <string>Our application needs permission to write photos...</string>
+        <key>NSPhotoLibraryUsageDescription</key>
+        <string>This app requires access to the photo library.</string>
+        <key>NSLocationAlwaysUsageDescription</key>
+        <string>This app requires access to the Location</string>
+        <key>NSLocationUsageDescription</key>
+        <string>This app requires access to the Location </string>
+        <key>NSLocationWhenInUseUsageDescription</key>
+        <string>This app requires access to the Location</string>
         <feature name="CDVWKWebViewEngine">
             <param name="ios-package" value="CDVWKWebViewEngine" />
         </feature>
-        <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
         <preference name="StatusBarOverlaysWebView" value="true" />
         <preference name="StatusBarStyle" value="lightcontent" />
         <preference name="AllowInlineMediaPlayback" value="true" />

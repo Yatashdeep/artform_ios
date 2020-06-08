@@ -123,6 +123,13 @@
     </config-file>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>Our application needs permission to write photos...</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>This app requires access to the photo library.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <key>NSLocationUsageDescription</key>
+    <string>This app requires access to the Location </string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app requires access to the Location</string>
     <icon height="57" src="resources/ios/icon/icon.png" width="57" />
     <icon height="114" src="resources/ios/icon/icon@2x.png" width="114" />
     <icon height="40" src="resources/ios/icon/icon-40.png" width="40" />
@@ -198,7 +205,6 @@
     <preference name="loadUrlTimeoutValue" value="100000" />
     <preference name="TwitterConsumerKey" value="XO9gFa1jmL58dJI5TIRz70nCW" />
     <preference name="TwitterConsumerSecret" value="UeWtTsvkBPFtSunIPPB7plqug4W06SY2Ck8OzwImJenoigpsd7 " />
-    <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarStyle" value="lightcontent" />
 </widget>
