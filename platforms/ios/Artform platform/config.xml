@@ -78,6 +78,9 @@
         <param name="ios-package" value="CDVUniqueDeviceID" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="CDVWKWebViewEngine">
+        <param name="ios-package" value="CDVWKWebViewEngine" />
+    </feature>
     <feature name="SocialSharing">
         <param name="ios-package" value="SocialSharing" />
         <param name="onload" value="true" />
@@ -205,6 +208,7 @@
     <preference name="loadUrlTimeoutValue" value="100000" />
     <preference name="TwitterConsumerKey" value="XO9gFa1jmL58dJI5TIRz70nCW" />
     <preference name="TwitterConsumerSecret" value="UeWtTsvkBPFtSunIPPB7plqug4W06SY2Ck8OzwImJenoigpsd7 " />
+    <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine" />
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarStyle" value="lightcontent" />
 </widget>

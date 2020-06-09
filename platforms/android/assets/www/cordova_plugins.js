@@ -419,7 +419,8 @@ module.exports.metadata =
   "cordova-plugin-filepath": "1.5.8",
   "cordova-plugin-filepicker": "1.1.6",
   "branch-cordova-sdk": "4.1.2",
-  "onesignal-cordova-plugin": "2.9.1"
+  "onesignal-cordova-plugin": "2.9.1",
+  "cordova-plugin-wkwebview-engine": "1.2.1"
 };
 // BOTTOM OF METADATA
 });
